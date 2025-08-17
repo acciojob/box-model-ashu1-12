@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.color-container{
+.container{
 	 display: flex;          /* arrange children horizontally */
       justify-content: space-around; /* keep them centered */
       width: 70%; 
@@ -9,7 +9,7 @@
       border-radius: 60px;
       padding: 60px;
 	gap:15px;
-      background: lightgray;
+      background-color: lightgray;
 }
 .color-block{
 	  flex: 1;                /* equal width sections */
